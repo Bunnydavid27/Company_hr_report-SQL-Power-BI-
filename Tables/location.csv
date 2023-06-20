@@ -1,0 +1,7 @@
+gender,location,count(*)
+Non-Conforming,Remote,36
+Non-Conforming,Headquarters,108
+Female,Remote,614
+Male,Remote,659
+Female,Headquarters,1804
+Male,Headquarters,2118
